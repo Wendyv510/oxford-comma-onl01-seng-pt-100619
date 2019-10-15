@@ -5,3 +5,5 @@ def oxford_comma=["kiwi"]
    oxford_comma<< "lynchees", "pomelos"
       oxford_comma.join
 end
+
+oxford_comma
